@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\swarl\source\repos\A2Payotte\A2Payotte\Main.cpp(9,7): error C2079: 'm_story' uses undefined class 'Story'
+C:\Users\swarl\source\repos\A2Payotte\A2Payotte\Main.cpp(93,2): error C3861: 'LoadStory': identifier not found
