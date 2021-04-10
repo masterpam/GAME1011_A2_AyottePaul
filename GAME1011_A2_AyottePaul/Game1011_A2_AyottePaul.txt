@@ -1,0 +1,27 @@
+Welcome to Our Story. The Main Hero wakes up in an unknown dungeon and unaware of how he got there. 
+He wakes up and noticeds to doors one headed west and the second headed east. 
+
+Door west leads to a room with a spider in it blocking his path. 
+Door East is a dark corridor with a narrow path with only a lit up torch as his way out.
+
+He choses west. 
+
+Entering the room on the west side. He encounters a spider. He has two options
+
+Attacks the spider with a stone and progresses to the next room. 
+Or avoids the spider and enters another room. 
+
+He choses to attack with the stone and one hits the spider and is able to move on. 
+
+In the next room he encounters a Skeleton with a sword. He can either pick up a wooden axe that has weak durability.
+Or he can use to throw a stone at it and knock out the sword from his hand. 
+
+He choses to use the stone, picks up the sword, one hits the Skeleton.
+
+The Skeleton is destroyed and drops a key.
+
+The hero uses the key to unlock a door and is able to escape. 
+
+The End.    
+
+ 
